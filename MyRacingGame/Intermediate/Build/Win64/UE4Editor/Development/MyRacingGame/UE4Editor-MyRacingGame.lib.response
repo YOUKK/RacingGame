@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyRacingGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\MyRacingGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\MyRacingGame.cpp.obj"
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\MyRacingGameGameModeBase.cpp.obj"
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\MyRacingGame.init.gen.cpp.obj"
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\MyRacingGameGameModeBase.gen.cpp.obj"
+"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\Default.rc2.res"
+/OUT:"D:\RacingGame\MyRacingGame\Intermediate\Build\Win64\UE4Editor\Development\MyRacingGame\UE4Editor-MyRacingGame.lib"
